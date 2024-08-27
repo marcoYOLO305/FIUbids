@@ -1,0 +1,30 @@
+header {
+            background-color: #f4f4f4;
+            box-sizing: border-box;
+            padding: 5px;
+            margin: 0;
+        }
+nav {
+            background-color: #0e1e3e;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            font-weight: bold;
+            box-sizing: border-box;
+            padding: 5px;
+            margin: 0;
+        }
+nav a {
+            color: white;
+        }
+main {
+            width: 900px;
+            font-family: Georgia, serif;
+            margin: 0 auto; /* Centers content */
+        }
+footer {
+            text-align: center;
+            background-color: #f9ce29;
+            padding: 5px;
+        }
