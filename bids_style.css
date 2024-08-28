@@ -20,7 +20,7 @@ nav a {
         }
 main {
             width: 900px;
-            font-family: Georgia, serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0 auto; /* Centers content */
             font-size: 14px;
         }
